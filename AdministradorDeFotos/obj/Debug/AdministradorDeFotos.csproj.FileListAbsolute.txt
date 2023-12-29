@@ -1,0 +1,19 @@
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\bin\Debug\AdministradorDeFotos.exe.config
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Debug\AdministradorDeFotos.csprojResolveAssemblyReference.cache
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Debug\AdministradorDeFotos.FrmImagenes.resources
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Debug\AdministradorDeFotos.Properties.Resources.resources
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Debug\AdministradorDeFotos.csproj.GenerateResource.Cache
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\bin\Debug\AdministradorDeFotos.exe
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\bin\Debug\AdministradorDeFotos.pdb
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Debug\AdministradorDeFotos.exe
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Debug\AdministradorDeFotos.pdb
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\bin\Debug\AdministradorDeFotos.exe.config
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\bin\Debug\AdministradorDeFotos.exe
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\bin\Debug\AdministradorDeFotos.pdb
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\obj\Debug\AdministradorDeFotos.csproj.AssemblyReference.cache
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\obj\Debug\AdministradorDeFotos.FrmImagenes.resources
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\obj\Debug\AdministradorDeFotos.Properties.Resources.resources
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\obj\Debug\AdministradorDeFotos.csproj.GenerateResource.cache
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\obj\Debug\AdministradorDeFotos.csproj.CoreCompileInputs.cache
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\obj\Debug\AdministradorDeFotos.exe
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\obj\Debug\AdministradorDeFotos.pdb

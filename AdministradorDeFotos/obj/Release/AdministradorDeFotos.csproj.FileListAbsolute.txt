@@ -1,0 +1,27 @@
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\bin\Release\AdministradorDeFotos.exe.config
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\bin\Release\AdministradorDeFotos.exe
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\bin\Release\AdministradorDeFotos.pdb
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.FrmImagenes.resources
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.Properties.Resources.resources
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.csproj.GenerateResource.Cache
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.exe
+C:\Noe\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.pdb
+C:\Noé\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\bin\Release\AdministradorDeFotos.exe.config
+C:\Noé\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\bin\Release\AdministradorDeFotos.exe
+C:\Noé\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\bin\Release\AdministradorDeFotos.pdb
+C:\Noé\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.csprojResolveAssemblyReference.cache
+C:\Noé\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.FrmImagenes.resources
+C:\Noé\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.Properties.Resources.resources
+C:\Noé\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.csproj.GenerateResource.Cache
+C:\Noé\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.exe
+C:\Noé\Programas Recuperados\AdministradorDeFotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.pdb
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\bin\Release\AdministradorDeFotos.exe.config
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\bin\Release\AdministradorDeFotos.exe
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\bin\Release\AdministradorDeFotos.pdb
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.FrmImagenes.resources
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.Properties.Resources.resources
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.csproj.GenerateResource.cache
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.csproj.CoreCompileInputs.cache
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.exe
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.pdb
+E:\Proyectos\Repositorios\repos\Actualizados\Administrador de fotos\AdministradorDeFotos\obj\Release\AdministradorDeFotos.csproj.AssemblyReference.cache
